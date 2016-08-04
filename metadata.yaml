@@ -1,0 +1,46 @@
+_repo: The-Federalist-Papers_18
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Madison, James
+    alias: United States President (1809-1817)
+    birthdate: 1751
+    deathdate: 1836
+    gutenberg_agent_id: '14'
+    url: http://www.gutenberg.org/2009/agents/14
+    wikipedia: http://en.wikipedia.org/wiki/James_Madison
+  - agent_name: Hamilton, Alexander
+    birthdate: 1757
+    deathdate: 1804
+    gutenberg_agent_id: '13'
+    url: http://www.gutenberg.org/2009/agents/13
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Hamilton
+  - agent_name: Jay, John
+    alias: Jay, J. (John)
+    birthdate: 1745
+    deathdate: 1829
+    gutenberg_agent_id: '15'
+    url: http://www.gutenberg.org/2009/agents/15
+    wikipedia: http://en.wikipedia.org/wiki/John_Jay
+description: The Federalist papers were written and published during 1787 and 1788
+  to persuade New York voters to ratify the proposed Constitution. The primary authors
+  were Alexander Hamilton, James Madison and John Jay. This site (a part of the THOMAS
+  site) includes a search engine, a list of the titles of the 85 Federalist Papers,
+  links to the full text of the Papers, and historical background information.
+gutenberg_bookshelf: Politics
+gutenberg_issued: '1991-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcc 'KF'
+- !lcsh 'Constitutional history -- United States -- Sources'
+- !lcsh 'Constitutional law -- United States'
+- GITenberg
+title: The Federalist Papers
+url: http://www.gutenberg.org/ebooks/18
