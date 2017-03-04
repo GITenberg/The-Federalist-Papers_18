@@ -1,5 +1,8 @@
 _repo: The-Federalist-Papers_18
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Madison, James
@@ -27,6 +30,8 @@ description: The Federalist papers were written and published during 1787 and 17
   were Alexander Hamilton, James Madison and John Jay. This site (a part of the THOMAS
   site) includes a search engine, a list of the titles of the 85 Federalist Papers,
   links to the full text of the Papers, and historical background information.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18#The-Federalist-Papers
 gutenberg_bookshelf: Politics
 gutenberg_issued: '1991-08-01'
 gutenberg_type: Text
